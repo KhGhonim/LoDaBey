@@ -7,7 +7,7 @@ Developer & Translator.
 I am Khaled, a professional translator turned developer, driven by a passion for technology and coding. With years of translation experience, I have a keen eye for detail and problem-solving skills, which now help me create user-friendly applications.
 
 * 🌍  I'm based in Istanbul, Türkiye.
-* ✉️  You can contact me at [dev@khaledghonim.com](mailto:dev@khaledghonim.com)
+* ✉️  You can contact me at [kg@khaledghonim.com](mailto:kg@khaledghonim.com)
 * 🧠  I'm learning Everything about JS.
 * 🤝  I'm open to collaborating on Startups, BIG projects and solving problems of existing projects.
 
